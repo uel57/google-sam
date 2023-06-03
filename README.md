@@ -102,8 +102,9 @@ Setting the default item
 
 ## Change which data center your service is in
 
-This affects your ip address when you use google search
+This affects your ip address when you use google search thanks for the commit
 
 ![](./asset/233500.jpg)
 
 i really want to get this
+i cant believe i made a change
